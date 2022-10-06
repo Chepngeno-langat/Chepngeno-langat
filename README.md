@@ -7,7 +7,7 @@
  <ul>
    <li>👀 I’m interested in Data Science</li>
    <li>🌱 I’m currently learning software engineering at ALX Africa</li>
-   <li>📫 Reach me at langatkarenn@gmail.com</li>
+   <li>📫 Reach me at <a href="langatkarenn@gmail.com">langatkarenn@gmail.com</a></li>
  </ul>
 </div>
 <!---

@@ -5,8 +5,7 @@
 <div>
 <p>About Me:</p>
  <ul>
-   <li>👀 I’m interested in Data Science</li>
-   <li>🌱 I’m currently learning software engineering at ALX Africa</li>
+   <li>👀 Data Sccience and Machine Learning</li>
    <li>📫 Reach me at <a href="mailto: langatkarenn@gmail.com">langatkarenn@gmail.com</a></li>
  </ul>
 </div>

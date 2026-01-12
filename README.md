@@ -5,7 +5,7 @@
 <div>
 <p>About Me:</p>
  <ul>
-   <li>👀 Data Sccience and Machine Learning</li>
+   <li>👀 Data Engineering</li>
    <li>📫 Reach me at <a href="mailto: langatkarenn@gmail.com">langatkarenn@gmail.com</a></li>
  </ul>
 </div>
